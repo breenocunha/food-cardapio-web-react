@@ -9,7 +9,9 @@
 
 ## Comandos para rodar a aplicação em localhost
 
-Abra o terminal no seu Visual Code com ### 'Ctrl+"' e em seguida digite o comando abaixo...
+Abra o terminal no seu Visual Code com o comando
+### `Ctrl+"`
+e em seguida digite o comando abaixo...
 ### `npm start`
 
 
