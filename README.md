@@ -1,5 +1,5 @@
 
-# Cardápio Digital usando o React JS
+# Cardápio Web usando o React JS
 ## Projeto para treinar minhas habilidades
 
 #### Liguagens Utilizadas
