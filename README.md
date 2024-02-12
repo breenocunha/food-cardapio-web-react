@@ -1,23 +1,58 @@
 
-# Cardápio Web usando o React JS
-## Projeto para treinar minhas habilidades
+![Logo-github-cardapioweb](https://github.com/breenocunha/food-cardapio-digital-react/assets/154290956/a12b556a-a505-474b-8877-43629771a0ce)
 
-#### Liguagens Utilizadas
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+# Cardápio Web React
 
-### Telas do Sistema Web - Desktop
+projeto feito para treinar minhas habilidades nas linguagens utilizas.
 
-![cardapio-web-desktop01](https://github.com/breenocunha/food-cardapio-digital-react/assets/154290956/7c3a8fc8-3f25-428b-9098-284401297341)
-![cardapio-web-desktop02](https://github.com/breenocunha/food-cardapio-digital-react/assets/154290956/1d089d33-32e8-4688-a25b-5558f03614aa)
+## 🔥 Introdução
 
-### Telas do Sistema Web - Mobile
+Projeto feito com a intenção de montar um cardápio interativo para o publico de seus clientes com o objetivo de facilitar os pedidos, organização e entrega.
 
-![cardapio-web-mobile](https://github.com/breenocunha/food-cardapio-digital-react/assets/154290956/fe51f1e1-9268-49bb-820f-3265d310d65d)
+### ⚙️ Pré-requisitos
 
-##
+Você precisa ter instalado em seu PC
 
+```
+Git
+
+Node JS (versão LTS)
+```
+
+### 🔨 Guia de instalação
+
+
+Etapas para instalar:
+
+Passo 1:
+```
+Baixar o Git
+Baixar o Node JS
+```
+Passo 2:
+```
+Instalar o Git
+Instalar o Node
+Clonar o repositorio
+Abra o terminal do VS Code
+Digite o comando:
+npm start
+```
+
+## 📦 Tecnologias usadas:
+
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 👷 Autores
+
+* **Breno Cunha** - *Frontend do projeto* - [@breenocunha](https://github.com/breenocunha)
+* **Breno Cunha** - *Backend do projeto* - [@breenocunha](https://github.com/breenocunha)
+
+## 💡 Expressões de gratidão
+
+* Um agradecimento publicamente.
+* Para suporte, mande um email para eltonbcunha11@gmail.com.
+* Link para o meu linkedin [breenocunha](https://www.linkedin.com/in/brenocunha/)
